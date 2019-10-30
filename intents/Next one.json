@@ -1,0 +1,53 @@
+{
+  "id": "e44136b1-8e01-4b21-8a18-8b20721ec296",
+  "name": "Next one",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "One more quote"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Never think there is anything impossible for the soul. It is the greatest heresy to think so. If there is a sin, this is the only sin; to say that you are weak, or others are weak.",
+            "If money helps a man to do good to others, it is of some value; but if not, it is simply a mass of evil, and the sooner it is got rid of, the better.",
+            "In one word, this ideal is that you are divine.",
+            "That man has reached immortality who is disturbed by nothing material.",
+            "I don’t look to jump over 7-foot bars: I look around for 1-foot bars that I can step over."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

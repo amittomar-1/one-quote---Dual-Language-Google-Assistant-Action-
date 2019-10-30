@@ -1,0 +1,53 @@
+{
+  "id": "aff6c442-1647-4838-9fc9-1295f580fb50",
+  "name": "Another quote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Next one"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "The future depends on what you do today.",
+            "Don\u0027t give up as there is always a next time.",
+            "You must bake with the flour you have.",
+            "Expectation is the root of all heartache.",
+            "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

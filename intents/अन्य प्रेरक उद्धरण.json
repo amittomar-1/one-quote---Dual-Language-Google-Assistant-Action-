@@ -1,0 +1,53 @@
+{
+  "id": "3eac4dde-c327-44c0-9653-f0b9fd34b9b9",
+  "name": "अन्य प्रेरक उद्धरण",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "hi",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "अनमोल वचन"
+            },
+            {
+              "title": "बाहर निकले"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "condition": "",
+          "speech": [
+            "हमेशा ध्यान रखें कि सफल होने के लिए आपका खुद का संकल्प किसी और से ज्यादा है।",
+            "संकट के समय हर छोटी से छोटी चीज़ भी बहुत मायने रखती है।",
+            "पहले वे तुम्हें नजरअंदाज (ध्यान नहीं देंगे) करेंगे, फिर वे तुम पर हँसेंगे, फिर वे तुमसे लड़ेंगे, लेकिन अंत में जीत सिर्फ और सिर्फ तुम्हारी होगी।",
+            "आज आप जो करते हैं उसी पर आपका भविष्य निर्भर करता है।",
+            "कभी हार मत मानो क्योंकि हमेशा अगला मौका जरूर मिलता है।"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

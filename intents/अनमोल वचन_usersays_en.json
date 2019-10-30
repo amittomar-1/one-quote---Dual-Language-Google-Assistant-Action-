@@ -1,0 +1,38 @@
+[
+  {
+    "id": "eb5c7868-3609-4441-8e2f-7fe3e7e3c084",
+    "data": [
+      {
+        "text": "प्रेरक गुरु से कनेक्ट करो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9800db2b-dfad-428e-8d4c-3dddad765470",
+    "data": [
+      {
+        "text": "प्रेरक गुरु से बात करे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eeb5e73-b195-483d-af9b-73d2604473e1",
+    "data": [
+      {
+        "text": "प्रेरक गुरु का आज का सुविचार बताओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

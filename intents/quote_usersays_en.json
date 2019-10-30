@@ -1,0 +1,98 @@
+[
+  {
+    "id": "db5b465e-b9ba-496d-b894-5278d33f045b",
+    "data": [
+      {
+        "text": "Next quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cbe2246-af4c-40e6-b88f-4ae454bacc24",
+    "data": [
+      {
+        "text": "tell me  a motivational quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffcf1e16-52d3-4290-8b09-a98fa9675905",
+    "data": [
+      {
+        "text": "motivational quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf970668-fa3c-4fb5-9852-421b809a7965",
+    "data": [
+      {
+        "text": "best quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21ae367a-6148-49c3-9cb4-f1ee068946ad",
+    "data": [
+      {
+        "text": "tell me a motivational quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2af1d140-ca9d-4429-ae8b-e21fc65485ff",
+    "data": [
+      {
+        "text": "what is the quote of ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44181fa0-4d98-4305-8b6d-d5e5c6096dec",
+    "data": [
+      {
+        "text": "tell me a quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

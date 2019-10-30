@@ -1,0 +1,54 @@
+{
+  "id": "9b7bb299-d304-42b2-9c6a-d8abc3fea93a",
+  "name": "One more quote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Next quote"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Mistakes are always forgivable if one has the courage to admit them",
+            "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+            "As you think, so shall you become.",
+            "A quick temper will make a fool of you soon enough.",
+            "Be happy, but never satisfied.",
+            "Do not reveal what you have thought upon doing, but by wise council keep it secret being determined to carry it into execution."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

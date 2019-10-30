@@ -1,0 +1,49 @@
+{
+  "id": "3b2a947f-e2b2-4e48-a141-c7cacb791d87",
+  "name": "बाहर निकले",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "जल्द ही फिर मिलेंगे",
+            "आपसे मिलकर अच्छा लगा",
+            "जल्दी वापस आना"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "condition": "",
+          "speech": "जल्द ही फिर मिलेंगे"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "condition": "",
+          "speech": "जल्दी वापस आना"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

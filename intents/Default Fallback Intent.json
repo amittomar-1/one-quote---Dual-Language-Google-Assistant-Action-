@@ -1,0 +1,82 @@
+{
+  "id": "f04ca4ee-99d5-47a3-8010-da5481257bc0",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "tell me a quote"
+            },
+            {
+              "title": "best quote"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?\n\nsay again!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "condition": "",
+          "speech": [
+            "मुझे समझ नहीं आया. क्या आप अपनी बात दोहरा सकते हैं?",
+            "आपने क्या कहा, मुझे समझ नहीं आया. फिर से कहें?",
+            "माफ़ करें, क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, क्या आप अपनी बात फिर से कह सकते हैं?",
+            "क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, मुझे समझ नहीं आया|",
+            "माफ़ करें, क्या कहा आपने?",
+            "एक बार फिर से कह सकते हैं?",
+            "क्या कहा आपने?",
+            "एक बार फिर से कहिए?",
+            "मुझे समझ नहीं आया|"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "fcf58663-7887-47a5-bece-2dbec9c709bf",
+  "name": "Next quote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Another quote"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "It does not matter how you come into the world, what matter is that you are here.",
+            "Success and failure are both part of life, But both are not Permanent.",
+            "Always bear in mind that your own resolution to succeed is more important than any other.",
+            "Every little thing counts in a crisis.",
+            "First they ignore you, then they laugh at you, then they fight you, then you win."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
